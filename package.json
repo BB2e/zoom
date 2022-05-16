@@ -1,0 +1,14 @@
+{
+  "name": "zoom",
+  "version": "1.0.0",
+  "description": "Zoom clone using webrtc and websocket",
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/cli": "^7.17.10",
+    "@babel/core": "^7.17.10",
+    "@babel/node": "^7.17.10",
+    "nodemon": "^2.0.16"
+  }
+}
